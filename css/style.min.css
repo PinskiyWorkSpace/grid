@@ -1,2 +1,2 @@
-body{background:red}div{width:100px;height:100px;background-color:orange}
+*{margin:0;padding:0;-webkit-box-sizing:border-box;box-sizing:border-box;font-family:'Roboto', sans-serif}.grid-container{display:-ms-grid;display:grid;width:1140px;-ms-grid-columns:(240px)[4];grid-template-columns:repeat(4, 240px);-ms-grid-rows:(260px)[2];grid-template-rows:repeat(2, 260px);grid-auto-rows:260px;margin:82px auto 0 auto;gap:60px}.grid-item__img{width:100%}.grid-item__descr{margin-top:15px;font-weight:500;font-size:14px;line-height:16px;color:#000000}
 /*# sourceMappingURL=style.min.css.map */
